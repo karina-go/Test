@@ -1,4 +1,4 @@
-print(‘Hello’)
-print(‘Hello to everybody’)
-print(‘Hello’)
-print(‘Hello my dear friend’)
+print(‘Hello;’)
+print(‘Hello to everybody;’)
+print(‘Hello;’)
+print(‘Hello my dear friend;’)
